@@ -1,0 +1,6 @@
+server:
+    port: 8080
+
+soap:
+  endpoints:
+    numberConversion: https://www.dataaccess.com/webservicesserver/NumberConversion.wso
